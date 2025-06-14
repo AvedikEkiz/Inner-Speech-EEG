@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Inner-Speech-EEG"
+authors:
+  - family-names: Ekizyan
+    given-names: Avedik Khachaturovich
+    name: Avedik Khachaturovich Ekizyan
+    affiliation:  Southern Federal University
+license: MIT
+type: software
+repository-code: https://github.com/AvedikEkiz/Inner-Speech-EEG
+keywords:
+  - EEG
+  - coherence
+  - ML
+abstract: >
+  This repository represents statistical analysis of EEG data collected from Spanish-speaking participants while producing 6 words-directions. The notebook contains PSD and coherence calculation, ANOVA/t-test comparisons, and classification trials.
